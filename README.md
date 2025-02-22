@@ -1,11 +1,11 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Anvarbek%20Tilakov&fontSize=40&fontAlignY=35&fontColor=fff)
 
-## 👋 Salom, men Anvarbek!
+## 👋 Salom, men Anvarbek Tilakov!
 
 - 🚀 Dasturlashga qiziqaman va yangi texnologiyalarni o‘rganmoqdaman.
 - 🔥 HTML, CSS va JavaScript'dan foydalangan holda loyihalar yarataman.
 - 📚 Hozirda **React, Tailwind CSS, Next.js va Framer Motion** ni o‘rganmoqdaman.
-- 🎯 Maqsadim — kuchli frontend dasturchi bo‘lish.
+- 🎯 Maqsadim — kuchli frontend dasturchi bo'lish.
 
 ---
 
